@@ -25,6 +25,9 @@ grocery order, or one with a manipulated instruction slipped in), and run it.
 The agent's decision comes back from a real model call each time — try
 running the same scenario twice and compare.
 
+application link-agenttrace-know-your-agent.vercel.app
+
+
 ## Using it from your own agent
 
 ```bash
